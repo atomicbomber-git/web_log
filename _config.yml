@@ -17,8 +17,8 @@ title: James' Blog
 email: atomicbomber.email@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My personal blog.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/web_log" # the subpath of your site, e.g. /blog
+url: "https://atomicbomber-git.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: atomicboember
 github_username:  atomicbomber-git
 

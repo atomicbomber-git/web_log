@@ -2,7 +2,7 @@
 layout: post
 title:  "Why Am I Doing This"
 date:   2017-11-27 01:26:36 +0700
-categories: jekyll update
+categories: blog personal 
 ---
 
 I don't know the real reason why I am writing this. I believe deep inside I do know my reasons, but somehow I can't bring myself to describe it in a straightforward manner. Maybe there's some sort of psychological barrier that prevents me from doing it, so I think I'd just explore my mind and list several possible reasons.
